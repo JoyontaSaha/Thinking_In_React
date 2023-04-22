@@ -1,5 +1,7 @@
 # Getting Started with Create React App
 
+# Break the UI into a component hierarchy
+
 ![Alt Text](https://react.dev/images/docs/s_thinking-in-react_ui_outline.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
